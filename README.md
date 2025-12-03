@@ -32,9 +32,9 @@
 ## Profile Metrics  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imanjeetsodhi&style=for-the-badge"/>  
-  <img src="https://img.shields.io/github/followers/imanjeetsodhi?style=for-the-badge"/>  
-  <img src="https://img.shields.io/github/stars/imanjeetsodhi?style=for-the-badge"/>  
+  <img src="https://komarev.com/ghpvc/?username=devanshi19b&style=for-the-badge"/>  
+  <img src="https://img.shields.io/github/followers/devanshi19b?style=for-the-badge"/>  
+  <img src="https://img.shields.io/github/stars/devanshi19b?style=for-the-badge"/>  
 </p>
 
 ## Languages & Tools  
