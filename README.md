@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manjeet Singh Sodhi  
+# 👋 Hi, I'm Devanshi Bansal
 
 <p>
   - Full-stack developer in progress <br>
